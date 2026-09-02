@@ -1,3 +1,14 @@
+/*
+ * Copyright © 2026 Tanjim Ahmed
+ * All Rights Reserved.
+ *
+ * This source code is provided for portfolio and evaluation purposes only.
+ * Copying, modification, redistribution, commercial use, or incorporation
+ * into another project is prohibited without prior written permission.
+ *
+ * See the LICENSE file in the repository root for full terms.
+ */
+
 `timescale 1ns/1ps
 
 package smart_ticket_vending_tb_cfg_pkg;
